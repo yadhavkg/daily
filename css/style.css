@@ -1,0 +1,46 @@
+.link{
+    display: flex;
+}
+li{
+    margin: 10px;
+    list-style: none;
+}
+.pic1{
+    width: 50px;
+    height: 50px;
+
+}
+.pic2{
+    width: 400px;
+    height: 400px;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.pics{
+    width: 100px;
+    height: 100px;
+}
+.haed{
+    margin-top: 80px;
+}
+.mainhead{
+    font-size: 60px;
+}
+h6{
+    letter-spacing: 4px;
+    color: grey;
+}
+.btn{
+    width: 100px;
+    height: 50px;
+    color: yellow;
+}
+button{
+    color: white;
+    background-color: black;
+    border: none;
+}
+.atc{
+    width: 200px;
+    background-color: rgb(216, 102, 8);
+}
